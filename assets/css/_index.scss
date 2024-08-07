@@ -7,5 +7,8 @@
 // Content-related styles
 @import "./content.scss";
 
+// Post and section-related styles
+@import "./post-specific.scss";
+
 // Media queries for responsiveness (optimizations for various screen sizes)
 @import "./responsiveness.scss"
